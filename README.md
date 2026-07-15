@@ -268,18 +268,17 @@ Built-in blood donor directory allowing students to
 
 # 📸 Screenshots
 
-> Screenshots will be added soon.
+<p align="center">
+<img src="assets/mockups/dashboard.png" width="250">
+<img src="assets/mockups/analysis.png" width="250">
+<img src="assets/mockups/simulator.png" width="250">
+</p>
 
-```
-Dashboard
-Analytics
-Simulator
-Routine
-Calendar
-Grade Sheet
-Achievements
-Profile
-```
+<p align="center">
+<img src="assets/mockups/terms.png" width="250">
+<img src="assets/mockups/routine.png" width="250">
+<img src="assets/mockups/profile.png" width="250">
+</p>
 
 ---
 
@@ -292,19 +291,6 @@ Profile
 3. Sign in.
 4. Start tracking your academic journey.
 
----
-
-## Developers
-
-```bash
-git clone https://github.com/yourusername/GradeVision.git
-
-cd GradeVision
-
-flutter pub get
-
-flutter run
-```
 
 ---
 
@@ -333,7 +319,6 @@ flutter run
 - ⏳ Smart Study Planner
 - ⏳ Push Notifications
 - ⏳ GPA Comparison
-- ⏳ Offline First Support
 
 ---
 
@@ -388,7 +373,7 @@ Your support helps the project grow and motivates future development.
 ---
 
 <p align="center">
-<b>Built with ❤️ using Flutter & Firebase</b>
+<b>Made by Ethun Pandey</b>
 
 Empowering students through intelligent academic insights.
 </p>
