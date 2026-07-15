@@ -1,7 +1,7 @@
 # 🎓 GradeVision
 
 <p align="center">
-  <img src="assets/banner.png" alt="GradeVision Banner" width="100%">
+  <img src="assets/gradevision.webp" alt="GradeVision Banner" width="100%">
 </p>
 
 <p align="center">
